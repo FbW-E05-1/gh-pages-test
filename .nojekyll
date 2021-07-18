@@ -1,4 +1,0 @@
-with this file present, our directory will be published "as it is".
-default page = index.html
-
-without this file, github pages renders markdown (.md) files to html with the template, that is selected in the settings/pages section.
